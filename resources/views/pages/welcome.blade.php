@@ -1,6 +1,4 @@
-@extends('app')
-
-@section('title','Bienvenu chez Moi'. config('app.name'))
+@extends('layouts.app')
 
 @section('content')
 
